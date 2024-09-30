@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sam.chacko\\Desktop\\Sooraj\\Speridian.ActiveMQDebugApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AAC1F0-B21E-4149-97AE-8148E19D0A7F}|ActiveMQDebugApp\\ActiveMQDebugApp.csproj|c:\\users\\sam.chacko\\desktop\\sooraj\\speridian.activemqdebugapp\\activemqdebugapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2AAC1F0-B21E-4149-97AE-8148E19D0A7F}|ActiveMQDebugApp\\ActiveMQDebugApp.csproj|solutionrelative:activemqdebugapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sam.chacko\\Desktop\\Sooraj\\Speridian.ActiveMQDebugApp\\ActiveMQDebugApp\\Program.cs",
+              "RelativeDocumentMoniker": "ActiveMQDebugApp\\Program.cs",
+              "ToolTip": "C:\\Users\\sam.chacko\\Desktop\\Sooraj\\Speridian.ActiveMQDebugApp\\ActiveMQDebugApp\\Program.cs",
+              "RelativeToolTip": "ActiveMQDebugApp\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAjwBQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T08:43:51.857Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
